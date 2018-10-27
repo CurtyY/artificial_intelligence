@@ -1,4 +1,6 @@
 # artificial_intelligence
+O repositório contém todas as questões propostas respondidas utilizando *Jupyter Notebook*.
+
 ## INTELIGÊNCIA ARTIFICIAL
 
 Elabore um único relatório com todos os procedimentos e resultados obtidos em cada questão, argumentando os resultados. Só será aceito o relatório com as soluções das
