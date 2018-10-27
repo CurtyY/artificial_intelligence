@@ -8,7 +8,7 @@ Alunos:
 
 O repositório contém todas as questões propostas respondidas utilizando *Jupyter Notebook*.
 
-## INTELIGÊNCIA ARTIFICIAL
+## P2 INTELIGÊNCIA ARTIFICIAL
 
 Elabore um único relatório com todos os procedimentos e resultados obtidos em cada questão, argumentando os resultados. Só será aceito o relatório com as soluções das
 questões. As questões podem ser implementadas utilizando qualquer linguagem de programação ou o ​ Weka ​.
