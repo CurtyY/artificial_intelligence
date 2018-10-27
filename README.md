@@ -1,4 +1,11 @@
 # artificial_intelligence
+
+Alunos:
+
+    ARTHUR CURTY VIEIRA
+
+    GIOVANNI BRUNO TRAVASSOS DE CARVALHO
+
 O repositório contém todas as questões propostas respondidas utilizando *Jupyter Notebook*.
 
 ## INTELIGÊNCIA ARTIFICIAL
