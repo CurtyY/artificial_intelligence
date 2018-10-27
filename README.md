@@ -6,6 +6,10 @@ Alunos:
 
     GIOVANNI BRUNO TRAVASSOS DE CARVALHO
 
+Linguagem:
+    
+    Python
+
 O repositório contém todas as questões propostas respondidas utilizando *Jupyter Notebook*.
 
 ## P2 INTELIGÊNCIA ARTIFICIAL
