@@ -1,4 +1,4 @@
-# artificial_intelligence
+# Artificial Intelligence
 
 Alunos:
 
